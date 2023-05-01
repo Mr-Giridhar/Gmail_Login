@@ -32,6 +32,6 @@ public class Gmail_New {
 	    	System.out.println("No");
 	    }
 	    Thread.sleep(10000);
-	    driver.quit();
+	    driver.quit():
 	}
 }
